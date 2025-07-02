@@ -1,0 +1,4 @@
+cara penggunan command untuk buat web live
+susunan command untuk phx.live dan dalam cursor
+penggunaan ayat chatgpt untuk phx.live
+

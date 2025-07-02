@@ -1,0 +1,3 @@
+belajar macam mana kasih masuk projek dari local folder (pc) ke dalam github
+belajar create simple web yang ada web.live
+saya juga buat nota sendiri berkaitan penggunaan command untuk web.live 
