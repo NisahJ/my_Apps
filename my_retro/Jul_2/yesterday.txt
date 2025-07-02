@@ -1,1 +1,2 @@
-
+belajar aplikasi baru Elixir, Erlang, Phoenix
+buat simple framework
